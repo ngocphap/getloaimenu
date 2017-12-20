@@ -1,0 +1,122 @@
+[
+   {
+      "idloaigiaidau":"1",
+      "tengiaidau":"Arsenal",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/Arsenal_FC.svg\/408px-Arsenal_FC.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"2",
+      "tengiaidau":"Bournemouth",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/AFC_Bournemouth_%282013%29.svg\/170px-AFC_Bournemouth_%282013%29.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"3",
+      "tengiaidau":"Brighton & Hove Albion",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/fd\/Brighton_%26_Hove_Albion_logo.svg\/1024px-Brighton_%26_Hove_Albion_logo.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"4",
+      "tengiaidau":"Burnley",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/02\/Burnley_FC_badge.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"5",
+      "tengiaidau":"Chelsea",
+      "hinhanhgiaidau":"https:\/\/seeklogo.com\/images\/C\/chelsea-fc-logo-A24FEB6BFB-seeklogo.com.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"6",
+      "tengiaidau":"Crystal Palace",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/0c\/Crystal_Palace_FC_logo.svg\/821px-Crystal_Palace_FC_logo.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"7",
+      "tengiaidau":"Everton",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/7c\/Everton_FC_logo.svg\/1002px-Everton_FC_logo.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"8",
+      "tengiaidau":"Huddersfield Town",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5a\/Huddersfield_Town_A.F.C._logo.svg\/1200px-Huddersfield_Town_A.F.C._logo.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"9",
+      "tengiaidau":"Leicester City",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/2\/2d\/Leicester_City_crest.svg\/1200px-Leicester_City_crest.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"10",
+      "tengiaidau":"Liverpool",
+      "hinhanhgiaidau":"https:\/\/seeklogo.com\/images\/L\/liverpool-football-club-logo-F989101B10-seeklogo.com.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"11",
+      "tengiaidau":"Man City",
+      "hinhanhgiaidau":"https:\/\/images.supersport.com\/2011\/man-city-logo-400x400px-football-picture-300.jpg",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"12",
+      "tengiaidau":"Man United",
+      "hinhanhgiaidau":"https:\/\/seeklogo.com\/images\/M\/manchester-united-logo-F14DA1FCCD-seeklogo.com.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"13",
+      "tengiaidau":"Newcastle",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/56\/Newcastle_United_Logo.svg\/763px-Newcastle_United_Logo.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"14",
+      "tengiaidau":"Southampton",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c9\/FC_Southampton.svg\/898px-FC_Southampton.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"15",
+      "tengiaidau":"Stoke City",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/2\/29\/Stoke_City_FC.svg\/885px-Stoke_City_FC.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"16",
+      "tengiaidau":"Swansea City",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f9\/Swansea_City_AFC_logo.svg\/635px-Swansea_City_AFC_logo.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"17",
+      "tengiaidau":"Tottenham",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/b4\/Tottenham_Hotspur.svg\/1200px-Tottenham_Hotspur.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"18",
+      "tengiaidau":"Watford",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e2\/Watford.svg\/1200px-Watford.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"19",
+      "tengiaidau":"West Bromwich",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8b\/West_Bromwich_Albion.svg\/1200px-West_Bromwich_Albion.svg.png",
+      "idloaimenu":"2"
+   },
+   {
+      "idloaigiaidau":"20",
+      "tengiaidau":"West Ham",
+      "hinhanhgiaidau":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e0\/West_Ham_United_FC.svg\/1063px-West_Ham_United_FC.svg.png",
+      "idloaimenu":"2"
+   }
+]
