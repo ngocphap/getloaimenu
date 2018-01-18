@@ -1,0 +1,74 @@
+[
+   {
+      "id":"1",
+      "tencauthu":"ARTUR BORUC",
+      "chucvu":"Th\u1ee7 M\u00f4n",
+      "hinhanhcauthu":"http:\/\/e2.365dm.com\/17\/03\/16-9\/20\/skysports-artur-boruc-poland_3900587.jpg?20170301150658",
+      "mangaoso":" 1",
+      "idchucvu":"1",
+      "idloaidoibong":"2"
+   },
+   {
+      "id":"2",
+      "tencauthu":"AARON RAMSDALE",
+      "chucvu":"Th\u1ee7 M\u00f4n",
+      "hinhanhcauthu":"https:\/\/platform-static-files.s3.amazonaws.com\/premierleague\/photos\/players\/250x250\/p225321.png",
+      "mangaoso":" 12",
+      "idchucvu":"1",
+      "idloaidoibong":"2"
+   },
+   {
+      "id":"3",
+      "tencauthu":"SIMON FRANCIS",
+      "chucvu":"H\u1eadu V\u1ec7",
+      "hinhanhcauthu":"https:\/\/platform-static-files.s3.amazonaws.com\/premierleague\/photos\/players\/250x250\/p15149.png",
+      "mangaoso":" 2",
+      "idchucvu":"2",
+      "idloaidoibong":"2"
+   },
+   {
+      "id":"4",
+      "tencauthu":"STEVE COOK",
+      "chucvu":"H\u1eadu V\u1ec7",
+      "hinhanhcauthu":"https:\/\/ichef.bbci.co.uk\/onesport\/cps\/480\/cpsprodpb\/158A6\/production\/_96203288_steve_cook_pa.jpg",
+      "mangaoso":" 3",
+      "idchucvu":"2",
+      "idloaidoibong":"2"
+   },
+   {
+      "id":"5",
+      "tencauthu":"DAN GOSLING",
+      "chucvu":"Ti\u1ec1n V\u1ec7",
+      "hinhanhcauthu":"https:\/\/platform-static-files.s3.amazonaws.com\/premierleague\/photos\/players\/250x250\/p40387.png",
+      "mangaoso":" 4",
+      "idchucvu":"3",
+      "idloaidoibong":"2"
+   },
+   {
+      "id":"6",
+      "tencauthu":"MAX GRADEL",
+      "chucvu":"Ti\u1ec1n V\u1ec7",
+      "hinhanhcauthu":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/01\/sport-preview-gradel.jpg?strip=all&w=620",
+      "mangaoso":" 10",
+      "idchucvu":"3",
+      "idloaidoibong":"2"
+   },
+   {
+      "id":"7",
+      "tencauthu":"BENIK AFOBE",
+      "chucvu":"Ti\u1ec1n \u0110\u1ea1o",
+      "hinhanhcauthu":"https:\/\/platform-static-files.s3.amazonaws.com\/premierleague\/photos\/players\/250x250\/p88498.png",
+      "mangaoso":" 9",
+      "idchucvu":"4",
+      "idloaidoibong":"2"
+   },
+   {
+      "id":"8",
+      "tencauthu":"CALLUM WILSON",
+      "chucvu":"Ti\u1ec1n \u0110\u1ea1o",
+      "hinhanhcauthu":"https:\/\/platform-static-files.s3.amazonaws.com\/premierleague\/photos\/players\/250x250\/p75115.png",
+      "mangaoso":" 14",
+      "idchucvu":"4",
+      "idloaidoibong":"2"
+   }
+]
